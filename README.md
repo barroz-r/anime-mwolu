@@ -2,10 +2,10 @@
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="anime-mwolu" src="https://img.shields.io/badge/anime-mwolu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/barroz-r"><img title="Author" src="https://img.shields.io/badge/Author-/barroz-r/anime-mwolul?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -31,7 +31,7 @@ Project created by <a href="https://github.com/barroz-r">barroz-r</a> to make it
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
-    
+<https://chat.whatsapp.com/C9WOhXSXhgoJFT6IkmDsBo>
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barro-rz&repo=PublicBot&theme=nightowl)](https://github.com/barroz-r/PublicBot)
   </div>
